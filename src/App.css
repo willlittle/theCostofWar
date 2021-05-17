@@ -1,0 +1,84 @@
+.container{
+  width: 65%;
+  height: 70%;
+  background-color: rgb(240, 240, 240);
+  margin: auto;
+  
+}
+/* 
+.otherTitle{
+  margin-left: 10%;
+  display:flex;
+  width:90%;
+  margin: auto;
+  align-items: baseline;
+  justify-content: center;
+  background-color: rosybrown;
+
+} */
+.introText{
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 3%;
+}
+
+.content{
+display:flex;
+padding-top:2%;
+justify-content: center;
+align-items: baseline;
+}
+
+.stats{
+  display:flex;
+  margin-left: 2%;
+  align-items: center;
+  flex-shrink: 1;
+  padding-right: 5%;
+  justify-content: space-between;
+
+}
+
+.plot{
+  display: flex;
+  margin-top: 3%;
+  justify-content: center;
+
+}
+
+.backDrop{
+  color:rgb(240, 240, 240)
+}
+h1{
+  font-size: 1.5em;
+
+}
+h2{
+  font-size: 1.1em; 
+  white-space: nowrap;
+  padding-left: 1%;
+  padding-right: 1%;
+
+  
+}
+h4{
+  font-size: 0.85em;
+  font-weight:normal; 
+}
+.legendContainer{
+  /* margin-top: 5%; */
+  display: flex;
+  justify-content: center;
+}
+.legend{
+    width:8%;
+    text-align: center;
+}
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  } */

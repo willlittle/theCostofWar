@@ -1,0 +1,115 @@
+index,country,year,recordedRate,projectedFromRecord,projectedWithoutWar,misc
+0,High SDI,1950,77.32,,,false
+0,High SDI,1955,57.9,,,
+0,High SDI,1960,47.66,,,
+0,High SDI,1965,35.95,,,"By extrapolating the trend of mortality during the times that preceded these conflicts, and then comparing these trends to reality, we can see how many years has added to their journey towards this goal, and see in a new light, the cost of war."
+0,High SDI,1970,29.05,,,"This however, is an ideal case, and in reality there are many factors that obstruct this progress. One of the most distinct obstructions of this progress is war."
+0,High SDI,1975,22,,,"By extrapolating a country’s pre-war trend-line of mortality, and comparing it to to the reality, we can see a new aspect of the age old question: What is the cost of war?"
+0,High SDI,1980,16.87,,,
+0,High SDI,1985,13.47,,,
+0,High SDI,1990,11.21,,,
+0,High SDI,1995,8.8,,,
+0,High SDI,2000,7.52,,,
+0,High SDI,2005,6.88,,,
+0,High SDI,2010,5.89,,,
+0,High SDI,2017,5.26,,,
+
+1,Rwanda,1950,306.01,,,12
+1,Rwanda,1955,287.05,,,1994
+1,Rwanda,1960,268.68,,,1995
+1,Rwanda,1965,269,,,"In the period between the 7th of April and the 15th of July, extremist elements of the Hutu tribe, Rwanda’s ethnic majority, executed a campaign of genocide against the Tutsi tribe, a traditionally aristocratic minority. This genocide, spurred on by years of propaganda, killed over 200,000 Rwandan citizens, and forced and many as 2,000,000 to flee."
+1,Rwanda,1970,270,,,
+1,Rwanda,1975,257.2,,,
+1,Rwanda,1980,222.17,,,"Rwandan Genocide"
+1,Rwanda,1985,185.84,,186.0566667,
+1,Rwanda,1990,179.62,,150.3766667,
+1,Rwanda,1995,191.89,,114.6966667,
+1,Rwanda,2000,166.04,,79.01666667,
+1,Rwanda,2005,113.09,,43.33666667,
+1,Rwanda,2010,74.41,,7.656666667,
+1,Rwanda,2017,50.68,,,
+1,Rwanda,2018,,43.31135823,,
+1,Rwanda,2019,,37.64254669,,
+1,Rwanda,2020,,31.97373514,,
+1,Rwanda,2021,,26.3049236,,
+1,Rwanda,2022,,20.63611205,,
+2,Syria,1950,203.32,,,8
+2,Syria,1955,175.87,,,2011
+2,Syria,1960,143.01,,,2020
+2,Syria,1965,121.64,,,"In 2011, Syria’s totalitarian government, in place since 1971 and now led by president Bashar al-Assad, faced unprecedented resistance from pro-democracy supporters. By 2011, the conflict between police, military, and paramilitary forces and the coalescing rebel militia had escalated into a full fledged civil war, catalysed by foreign and fundamentalist interests."
+2,Syria,1970,102.02,,,
+2,Syria,1975,85.68,,,
+2,Syria,1980,63.54,,,"Syrian Civil War"
+2,Syria,1985,51.58,,,
+2,Syria,1990,47.6,,,
+2,Syria,1995,35.76,,,
+2,Syria,2000,22.68,,,
+2,Syria,2005,14.59,,10.908,
+2,Syria,2010,14.15,,-0.5868571429,
+2,Syria,2017,18.76,,,
+2,Syria,2018,,8.395480475,,
+2,Syria,2019,,7.261775891,,
+2,Syria,2020,,6.128071307,,
+2,Syria,2021,,4.994366723,,
+2,Syria,2022,,3.860662139,,
+2,Syria,2023,,2.726957555,,
+2,Syria,2024,,1.593252971,,
+2,Syria,2025,,0.4595483871,,
+3,Afghanistan,1950,278.38,,,17
+3,Afghanistan,1955,265.58,,,1992
+3,Afghanistan,1960,254.43,,,2001
+3,Afghanistan,1965,243.63,,,"During the Soviet Afghan war, where the soviet union invaded the country to support the pro-comminust faction in the country, child mortality began to steeply decline, perhaps due to the amount of foreign mediacl aid supplied by the soviets, or the location of the fighting. After this conflict ended, a coalition built mostly of the Mujahideen parties that opposed the Soviets, set up an interim government. This fragile organisation quickly fell apart due to interethnic tensions and a ruined economy, leading to a 9 year period of civil war."
+3,Afghanistan,1970,232.78,,,
+3,Afghanistan,1975,223.17,,,
+3,Afghanistan,1980,216.38,,,"Afghanistan Civil War"
+3,Afghanistan,1985,199.12,,,
+3,Afghanistan,1990,147.62,,153.3266667,
+3,Afghanistan,1995,134.7,,118.9466667,
+3,Afghanistan,2000,119.8,,84.56666667,
+3,Afghanistan,2005,97.28,,50.18666667,
+3,Afghanistan,2010,74.67,,15.80666667,
+3,Afghanistan,2017,55.77,,,
+3,Afghanistan,2018,,50.80417997,,
+3,Afghanistan,2019,,47.23258744,,
+3,Afghanistan,2020,,43.66099491,,
+3,Afghanistan,2021,,40.08940238,,
+3,Afghanistan,2022,,36.51780985,,
+3,Afghanistan,2023,,32.94621732,,
+3,Afghanistan,2024,,29.37462479,,
+3,Afghanistan,2025,,25.80303226,,
+3,Afghanistan,2026,,22.23143973,,
+3,Afghanistan,2027,,18.6598472,,
+4,Bosnia/Herzegovina,1950,218.68,,,5
+4,Bosnia/Herzegovina,1955,202.15,,,1992
+4,Bosnia/Herzegovina,1960,137.94,,,1995
+4,Bosnia/Herzegovina,1965,108.97,,,"In 1946, The Peopls Republic of Bosnia and Herzegovina became one of the consituent republics of the Federal People’s Reblic of Yugoslavia. Ethnics monorities such as the Bosniaks (Bosnian Muslims) were particularly effected by the ensuing social and economic reforms, such as the abolition of many Muslim institutions. In the 1980s, the detrioration of the Yugoslav economy led to widespread disalusionment with the political system. By the 1990’s, with a full scale civil underway in the previously Yugoslav led Croatia , Bosnia and Herzegovina’s government fractured, and the region descended into war."
+4,Bosnia/Herzegovina,1970,80.02,,,
+4,Bosnia/Herzegovina,1975,57.05,,,
+4,Bosnia/Herzegovina,1980,41.27,,,"Bosnian War"
+4,Bosnia/Herzegovina,1985,28.93,,,
+4,Bosnia/Herzegovina,1990,18.3,,18.015,
+4,Bosnia/Herzegovina,1995,27.72,,6.53,
+4,Bosnia/Herzegovina,2000,12.32,,,
+4,Bosnia/Herzegovina,2005,8.76,,,
+4,Bosnia/Herzegovina,2010,7.81,,,
+4,Bosnia/Herzegovina,2017,7.04,,,
+5,Iraq,1950,244.01,,,28
+5,Iraq,1955,210.54,,,1980
+5,Iraq,1960,185.96,,,1988
+5,Iraq,1965,159.75,,,"The roots of this war lay in a number of territorial and political disputes between Iraq and Iran, with the parties aiming to seize points of strategic and economic advantage and undergoing religious reforms. Conflict began when Iraqi armed forces invaded regions of Iran on the border, though Iraq claimed that the war had begun earlier that month when Iran shelled a number of border posts."
+5,Iraq,1970,135.42,,,
+5,Iraq,1975,108.23,,,
+5,Iraq,1980,83.66,,82.20178571,"Iraq/Iran war"
+5,Iraq,1985,71.89,,55.90857143,
+5,Iraq,1990,56.22,,29.61535714,
+5,Iraq,1995,53.21,,3.322142857,
+5,Iraq,2000,44.4,,,
+5,Iraq,2005,39.89,,,
+5,Iraq,2010,33.14,,,
+5,Iraq,2017,25.65,,,
+5,Iraq,2018,,24.26213243,,
+5,Iraq,2019,,23.0869983,,
+5,Iraq,2020,,21.91186418,,
+5,Iraq,2021,,20.73673005,,
+5,Iraq,2022,,19.56159593,,
+5,Iraq,2023,,18.3864618,,
